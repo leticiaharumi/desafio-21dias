@@ -1,4 +1,4 @@
-## Desafio 21 dias de código │ Por <a href="https://www.instagram.com/rocketseat_oficial/" target="_blank">Rocketseat</a> 
+## Desafio 21 dias de código │ Leticia Harumi (Desafios por <a href="https://www.instagram.com/rocketseat_oficial/" target="_blank">Rocketseat</a>) 
 
 > ### <a href="https://www.instagram.com/p/ChTBg1BpLGU/?igshid=ZWFiZDJlMTg%3D" target="_blank">PARTE 1</a> 
 + Dia 1 - <a href="https://github.com/leticiaharumi/desafio-21dias" target="_blank">Repositório para listar os projetos que serão desenvolvidos</a>; ✔️
