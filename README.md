@@ -1,8 +1,8 @@
 ## Desafio 21 dias de código │ Por <a href="https://www.instagram.com/rocketseat_oficial/" target="_blank">Rocketseat</a> 
 
 > ### <a href="https://www.instagram.com/p/ChTBg1BpLGU/?igshid=ZWFiZDJlMTg%3D" target="_blank">PARTE 1</a> 
-+ <a href="https://github.com/leticiaharumi/desafio-21dias" target="_blank">Dia 1</a> - Repositório para listar os projetos que serão desenvolvidos; ✔️
-+ Dia 2 - Hello World customizado;
++ Dia 1 - <a href="https://github.com/leticiaharumi/desafio-21dias" target="_blank">Repositório para listar os projetos que serão desenvolvidos</a>; ✔️
++ Dia 2 - <a href="https://leticiaharumi.github.io/desafio-dia1/" target="_blank">Hello World customizado</a>; ✔️
 + Dia 3 - Botão animado;
 + Dia 4 - Calculadora;
 + Dia 5 - Página de erro 404 customizada;
