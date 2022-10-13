@@ -2,9 +2,9 @@
 
 > ### <a href="https://www.instagram.com/p/ChTBg1BpLGU/?igshid=ZWFiZDJlMTg%3D" target="_blank">PARTE 1</a> 
 + Dia 1 - <a href="https://github.com/leticiaharumi/desafio-21dias" target="_blank">Repositório para listar os projetos que serão desenvolvidos</a>; ✔️
-+ Dia 2 - <a href="https://leticiaharumi.github.io/desafio-dia1/" target="_blank">Hello World customizado</a>; ✔️
-+ Dia 3 - Botão animado;
-+ Dia 4 - Calculadora;
++ Dia 2 - <a href="https://leticiaharumi.github.io/desafio-dia2/" target="_blank">Hello World customizado</a>;  ✔️
++ Dia 3 - <a href="https://leticiaharumi.github.io/desafio-dia3/" target="_blank">Botão animado</a>; ✔️
++ Dia 4 - <a href="https://leticiaharumi.github.io/Calculadora/" target="_blank">Calculadora</a>; ✔️
 + Dia 5 - Página de erro 404 customizada;
 + Dia 6 - Card com glassmorphism;
 + Dia 7 - Contador;
