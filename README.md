@@ -5,7 +5,7 @@
 + Dia 2 - <a href="https://leticiaharumi.github.io/desafio-dia2/" target="_blank">Hello World customizado</a>;  ✔️
 + Dia 3 - <a href="https://leticiaharumi.github.io/desafio-dia3/" target="_blank">Botão animado</a>; ✔️
 + Dia 4 - <a href="https://leticiaharumi.github.io/Calculadora/" target="_blank">Calculadora</a>; ✔️
-+ Dia 5 - Página de erro 404 customizada;
++ Dia 5 - <a href="https://leticiaharumi.github.io/desafio-dia5/" target="_blank">Página de erro 404 customizada</a>; ✔️
 + Dia 6 - Card com glassmorphism;
 + Dia 7 - Contador;
 
