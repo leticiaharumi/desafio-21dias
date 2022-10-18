@@ -6,8 +6,8 @@
 + Dia 3 - <a href="https://leticiaharumi.github.io/desafio-dia3/" target="_blank">Botão animado</a>; ✔️
 + Dia 4 - <a href="https://leticiaharumi.github.io/Calculadora/" target="_blank">Calculadora</a>; ✔️
 + Dia 5 - <a href="https://leticiaharumi.github.io/desafio-dia5/" target="_blank">Página de erro 404 customizada</a>; ✔️
-+ Dia 6 - Card com glassmorphism;
-+ Dia 7 - Contador;
++ Dia 6 - <a href="https://desafio-dia6.netlify.app/" target="_blank">Card com glassmorphism</a>; ✔️
++ Dia 7 - <a href="https://leticiaharumi.github.io/contador/" target="_blank">Contador</a>; ✔️
 
 > ### <a href="https://www.instagram.com/p/ChkahuNOLvF/?igshid=NzNkNDdiOGI%3D" target="_blank">PARTE 2</a> 
 + Dia 8 - Toggle tema claro/escuro;
