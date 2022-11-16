@@ -11,7 +11,7 @@
 
 > ### <a href="https://www.instagram.com/p/ChkahuNOLvF/?igshid=NzNkNDdiOGI%3D" target="_blank">PARTE 2</a> 
 + Dia 8 - <a href="https://leticiaharumi.github.io/desafio-dia8/" target="_blank">Toggle tema claro/escuro</a>; ✔️ 
-+ Dia 9 - Animação de Loading;
++ Dia 9 - <a href="https://leticiaharumi.github.io/desafio-dia9/" target="_blank">Animação de Loading</a>; ✔️
 + Dia 10 - Utilizar a lib Particle.js do JavaScript;
 + Dia 11 - Formulário de login;
 + Dia 12 - Galeria de imagens;
